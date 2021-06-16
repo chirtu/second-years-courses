@@ -1,3 +1,7 @@
-# second-years-courses
-
-the all course , we  learnt in second year of study( third and fourth semester)
+# second-years-course
+FIRST SEMESTER
+1. SOFTWARE ENGINEERING
+2. OBJECT ORIENTED PROGRMMING WITH C++
+3. COST ACCOUNT
+4. SYSTEM ANALYSIS AND DESIGN
+5. ADVANCED NETWORKING 
